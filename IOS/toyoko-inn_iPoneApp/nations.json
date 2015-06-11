@@ -1,0 +1,14 @@
+{
+	"nations":[ "JPN", "KOR", "USA", "GBR", "DEU", "FRA", "ITA", "IND", "AUS", "NLD",
+	          "CAN", "SGP", "CHE", "SWE", "ESP", "SVN", "THA", "TWN", "CHN", "PHL",
+			  "BRA", "POL", "HKG", "MYS", "MMR", "MEX", "RUS", "E99"],
+	"jpn_nations": [ "日本", "韓国", "アメリカ合衆国", "イギリス", "ドイツ", "フランス", "イタリア", "インド", "オーストラリア", "オランダ",
+				   "カナダ", "シンガポール", "スイス", "スウェーデン", "スペイン", "スロベニア", "タイ", "台湾", "中国", "フィリピン",
+				   "ブラジル", "ポーランド", "香港", "マレーシア", "ミャンマー", "メキシコ", "ロシア", "その他の国"],
+	"cht_nations": [ "日本", "韓國", "美國", "英國", "德國", "法國", "義大利", "印度", "澳洲", "荷蘭",
+				   "加拿大", "新加坡", "瑞士", "瑞典", "西班牙", "斯洛維尼亞", "泰國", "台灣", "中國", "菲律賓",
+				   "巴西", "波蘭", "香港", "馬來西亞", "緬甸", "墨西哥", "俄羅斯", "其他國家"],
+	"eng_nations": [ "Japan", "South Korea", "USA", "UK", "Germany", "France", "Italy", "India", "Australia", "Netherlands",
+				   "Canada", "Singapore", "Switzerland", "Sweden", "Spain", "Slovenia", "Thailand", "Taiwan", "China", "Philippines",
+				   "Brazil", "Poland", "Hong Kong", "Malaysia", "Myanmar", "Mexico", "Russia", "Other country"]	
+}

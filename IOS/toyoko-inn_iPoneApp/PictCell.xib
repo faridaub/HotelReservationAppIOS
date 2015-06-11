@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7702" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7701"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="Pict" rowHeight="187" id="3a6-Y2-L9J" customClass="PictCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="187"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="3a6-Y2-L9J" id="8l6-os-uTA">
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" tag="1" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="TOW-00-xdH">
+                        <rect key="frame" x="70" y="0.0" width="180" height="150"/>
+                    </imageView>
+                    <button opaque="NO" tag="3" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="R7K-QT-YNa">
+                        <rect key="frame" x="35" y="57" width="35" height="36"/>
+                        <state key="normal" image="前.png">
+                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                        </state>
+                        <connections>
+                            <action selector="prevPressed:" destination="3a6-Y2-L9J" eventType="touchUpInside" id="QXe-8s-bDa"/>
+                        </connections>
+                    </button>
+                    <button opaque="NO" tag="4" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pTK-OJ-bjY">
+                        <rect key="frame" x="249" y="57" width="35" height="36"/>
+                        <state key="normal" image="次.png">
+                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                        </state>
+                        <connections>
+                            <action selector="nextPressed:" destination="3a6-Y2-L9J" eventType="touchUpInside" id="AJG-Oe-hJ3"/>
+                        </connections>
+                    </button>
+                    <pageControl opaque="NO" tag="2" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="IKc-5K-pzy">
+                        <rect key="frame" x="8" y="150" width="304" height="37"/>
+                        <connections>
+                            <action selector="pageChanged:" destination="3a6-Y2-L9J" eventType="valueChanged" id="Swv-VV-9Oi"/>
+                        </connections>
+                    </pageControl>
+                </subviews>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="imgv" destination="TOW-00-xdH" id="xPc-Dz-XwX"/>
+                <outlet property="nextButton" destination="pTK-OJ-bjY" id="ZPB-Ga-7Nu"/>
+                <outlet property="pageControl" destination="IKc-5K-pzy" id="4Qx-Vh-Pmk"/>
+                <outlet property="prevButton" destination="R7K-QT-YNa" id="feE-g3-j5u"/>
+            </connections>
+            <point key="canvasLocation" x="200" y="13"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="前.png" width="69" height="72"/>
+        <image name="次.png" width="69" height="72"/>
+    </resources>
+</document>

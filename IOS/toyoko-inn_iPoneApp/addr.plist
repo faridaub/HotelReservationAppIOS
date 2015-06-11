@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lat</key>
+		<real>35.699414</real>
+		<key>lng</key>
+		<real>139.787927</real>
+		<key>hotel_name</key>
+		<string>東横INNアキバ浅草橋駅東口</string>
+		<key>image</key>
+		<string>http://toyoko-inn.com/sp/images/H243h1.jpeg</string>
+		<key>addr</key>
+		<string>東京都台東区柳橋2-14-4</string>
+	</dict>
+	<dict>
+		<key>hotel_name</key>
+		<string>東横INN神田秋葉原</string>
+		<key>lat</key>
+		<real>35.695439</real>
+		<key>lng</key>
+		<real>139.783167</real>
+		<key>image</key>
+		<string>http://toyoko-inn.com/sp/images/H206h1.jpeg</string>
+		<key>addr</key>
+		<string>東京都中央区日本橋馬喰町2-2-4</string>
+	</dict>
+	<dict>
+		<key>hotel_name</key>
+		<string>東横INN東京日本橋</string>
+		<key>lat</key>
+		<real>35.691332</real>
+		<key>lng</key>
+		<real>139.780924</real>
+		<key>image</key>
+		<string>http://toyoko-inn.com/sp/images/H157h1.jpeg</string>
+		<key>addr</key>
+		<string>東京都中央区日本橋大伝馬町14-16</string>
+	</dict>
+</array>
+</plist>

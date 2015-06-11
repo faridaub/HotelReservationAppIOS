@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+    <key>URL</key>
+    <string>http://www.toyoko-inn.com/sp/notice/special?id=4</string>
+    <key>pic</key>
+    <string>toku4image_sp.gif</string>
+</dict>
+<dict>
+    <key>URL</key>
+    <string>http://www.toyoko-inn.com/sp/notice/special?id=6</string>
+    <key>pic</key>
+    <string>toku6image_sp.gif</string>
+</dict>
+<dict>
+    <key>URL</key>
+    <string>http://www.toyoko-inn.com/sp/notice/special?id=14</string>
+    <key>pic</key>
+    <string>toku14image_sp.jpg</string>
+</dict>
+<dict>
+    <key>URL</key>
+    <string>http://www.toyoko-inn.com/sp/notice/special?id=1</string>
+    <key>pic</key>
+    <string>toku1image_sp.gif</string>
+</dict>
+<dict>
+    <key>URL</key>
+    <string>http://www.toyoko-inn.com/sp/notice/special?id=16</string>
+    <key>pic</key>
+    <string>toku16image_sp.jpg</string>
+</dict>
+<dict>
+    <key>URL</key>
+    <string>http://www.toyoko-inn.com/sp/notice/special?id=79</string>
+    <key>pic</key>
+    <string>toku79image_sp.gif</string>
+</dict>
+<dict>
+    <key>URL</key>
+    <string>http://www.toyoko-inn.com/sp/notice/special?id=80</string>
+    <key>pic</key>
+    <string>toku80image_sp.gif</string>
+</dict>
+<dict>
+    <key>URL</key>
+    <string>http://www.toyoko-inn.com/sp/notice/special?id=23</string>
+    <key>pic</key>
+    <string>toku23image_sp.gif</string>
+</dict>
+</array>
+</plist>

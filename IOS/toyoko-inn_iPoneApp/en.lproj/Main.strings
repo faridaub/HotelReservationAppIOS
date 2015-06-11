@@ -1,0 +1,775 @@
+
+/* Class = "IBUIButton"; normalTitle = "ログイン"; ObjectID = "02L-on-hFU"; */
+"02L-on-hFU.normalTitle" = "次へ";
+
+/* Class = "IBUIButton"; normalTitle = "　ホテル検索"; ObjectID = "0kM-Yj-jGm"; */
+"0kM-Yj-jGm.normalTitle" = "　ホテル検索";
+
+/* Class = "IBUIButton"; normalTitle = "生年月日・パスワード\nでログイン"; ObjectID = "0xN-Dt-mMK"; */
+"0xN-Dt-mMK.normalTitle" = "生年月日・パスワード\nでログイン";
+
+/* Class = "IBUINavigationItem"; title = "お気に入りのホテル"; ObjectID = "1Nq-5B-IOH"; */
+"1Nq-5B-IOH.title" = "お気に入りのホテル";
+
+/* Class = "IBUILabel"; text = "変更内容を入力し「確認画面へ」ボタンを押してください。\n"; ObjectID = "1UH-pS-XXi"; */
+"1UH-pS-XXi.text" = "変更内容を入力し「確認画面へ」ボタンを押してください。\n";
+
+/* Class = "IBUIButton"; normalTitle = "ホテル %d/%d軒 表示"; ObjectID = "1ti-F7-mA1"; */
+"1ti-F7-mA1.normalTitle" = "ホテル %d/%d軒 表示";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "21Z-Ni-ccc"; */
+"21Z-Ni-ccc.text" = "Label";
+
+/* Class = "IBUILabel"; text = "キャンセルはまだ完了していません！"; ObjectID = "2Sz-Rw-Zkn"; */
+"2Sz-Rw-Zkn.text" = "キャンセルはまだ完了していません！";
+
+/* Class = "IBUIButton"; normalTitle = "ご利用案内"; ObjectID = "3Ga-Fe-W1l"; */
+"3Ga-Fe-W1l.normalTitle" = "ご利用案内";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "3R8-FK-EDQ"; */
+"3R8-FK-EDQ.title" = "戻る";
+
+/* Class = "IBUILabel"; text = "行き先から探す"; ObjectID = "3d7-Xb-KAF"; */
+"3d7-Xb-KAF.text" = "行き先から探す";
+
+/* Class = "IBUINavigationItem"; title = "%@"; ObjectID = "4GC-z0-XvN"; */
+"4GC-z0-XvN.title" = "%@";
+
+/* Class = "IBUIButton"; normalTitle = "ログイン"; ObjectID = "4Jv-Dh-uUT"; */
+"4Jv-Dh-uUT.normalTitle" = "次へ";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "4R9-Cb-bYe"; */
+"4R9-Cb-bYe.title" = "戻る";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "4RI-rd-xIA"; */
+"4RI-rd-xIA.title" = "戻る";
+
+/* Class = "IBUIButton"; normalTitle = "新規登録はこちら"; ObjectID = "4T1-6r-dgO"; */
+"4T1-6r-dgO.normalTitle" = "新規登録はこちら";
+
+/* Class = "IBUILabel"; text = "お名前・生年月日でログイン\n"; ObjectID = "4pN-dg-jRA"; */
+"4pN-dg-jRA.text" = "一般のお客様";
+
+/* Class = "IBUILabel"; text = "%d名"; ObjectID = "58r-Ld-fMK"; */
+"58r-Ld-fMK.text" = "%d名";
+
+/* Class = "IBUILabel"; text = "　お支払金額
+　29,500円"; ObjectID = "5Gl-Zd-ofl"; */
+"5Gl-Zd-ofl.text" = "　お支払金額
+　29,500円";
+
+/* Class = "IBUILabel"; text = "チェックアウト"; ObjectID = "5QF-Rl-fAy"; */
+"5QF-Rl-fAy.text" = "チェックアウト";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "5n5-0X-q82"; */
+"5n5-0X-q82.text" = "Title";
+
+/* Class = "IBUISegmentedControl"; 5wD-PF-Ipn.segmentTitles[0] = "履歴"; ObjectID = "5wD-PF-Ipn"; */
+"5wD-PF-Ipn.segmentTitles[0]" = "履歴";
+
+/* Class = "IBUISegmentedControl"; 5wD-PF-Ipn.segmentTitles[1] = "エリア選択"; ObjectID = "5wD-PF-Ipn"; */
+"5wD-PF-Ipn.segmentTitles[1]" = "エリア選択";
+
+/* Class = "IBUILabel"; text = "I"; ObjectID = "6BK-gs-BxY"; */
+"6BK-gs-BxY.text" = "I";
+
+/* Class = "IBUILabel"; text = "初めて予約する方（お客様情報登録）"; ObjectID = "6IC-iP-H9s"; */
+"6IC-iP-H9s.text" = "初めて予約する方（お客様情報登録）";
+
+/* Class = "IBUIButton"; normalTitle = "確認画面へ"; ObjectID = "6Pw-mP-mcR"; */
+"6Pw-mP-mcR.normalTitle" = "確認画面へ";
+
+/* Class = "IBUIButton"; normalTitle = "東横INNクラブカードを
+お持ちのお客様"; ObjectID = "6f3-c5-qfj"; */
+"6f3-c5-qfj.normalTitle" = "東横INNクラブカードを
+お持ちのお客様";
+
+/* Class = "IBUILabel"; text = "カードに記載されているお名前（ｱﾙﾌｧﾍﾞｯﾄ）を入力してください。"; ObjectID = "6kc-pw-T3Q"; */
+"6kc-pw-T3Q.text" = "カードに記載されているお名前（ｱﾙﾌｧﾍﾞｯﾄ）を入力してください。";
+
+/* Class = "IBUIButton"; normalTitle = "予約内容を確認する\n"; ObjectID = "6qD-ca-0q0"; */
+"6qD-ca-0q0.normalTitle" = "予約内容を確認する\n";
+
+/* Class = "IBUINavigationItem"; title = "セルテスト"; ObjectID = "6qd-wm-CdG"; */
+"6qd-wm-CdG.title" = "セルテスト";
+
+/* Class = "IBUIButton"; normalTitle = "お客様情報変更へ"; ObjectID = "6tg-2J-aXv"; */
+"6tg-2J-aXv.normalTitle" = "お客様情報変更へ";
+
+/* Class = "IBUILabel"; text = "10km"; ObjectID = "73G-Gd-nd2"; */
+"73G-Gd-nd2.text" = "10km";
+
+/* Class = "IBUILabel"; text = "お名前・生年月日でログイン"; ObjectID = "7DI-uU-epw"; */
+"7DI-uU-epw.text" = "一般のお客様";
+
+/* Class = "IBUIButton"; normalTitle = "設定"; ObjectID = "7Ox-hu-I0J"; */
+"7Ox-hu-I0J.normalTitle" = "設定";
+
+/* Class = "IBUIButton"; normalTitle = "1名×1室"; ObjectID = "7Rc-7p-CDC"; */
+"7Rc-7p-CDC.normalTitle" = "1名×1室";
+
+/* Class = "IBUILabel"; text = "名(半角ｱﾙﾌｧﾍﾞｯﾄ)"; ObjectID = "7aD-3r-fi2"; */
+"7aD-3r-fi2.text" = "名(半角アルファベット)";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "7q1-dO-99C"; */
+"7q1-dO-99C.title" = "戻る";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "7zc-ay-hjc"; */
+"7zc-ay-hjc.title" = "戻る";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "844-ZN-3iW"; */
+"844-ZN-3iW.text" = "Label";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "8Jh-zX-dpq"; */
+"8Jh-zX-dpq.title" = "戻る";
+
+/* Class = "IBUIButton"; normalTitle = "会員様ポイント確認"; ObjectID = "8U5-Xu-hYa"; */
+"8U5-Xu-hYa.normalTitle" = "会員様ポイント確認";
+
+/* Class = "IBUILabel"; text = "変更内容が下記でよろしければ「この内容で予約を変更する」を押してください。"; ObjectID = "8dp-7l-4bF"; */
+"8dp-7l-4bF.text" = "変更内容が下記でよろしければ「この内容で予約を変更する」を押してください。";
+
+/* Class = "IBUIViewController"; title = "room type specify"; ObjectID = "8yX-tx-vAD"; */
+"8yX-tx-vAD.title" = "room type specify";
+
+/* Class = "IBUILabel"; text = "生年月日・パスワードでログイン"; ObjectID = "9Tt-Nc-ChH"; */
+"9Tt-Nc-ChH.text" = "生年月日・パスワードでログイン";
+
+/* Class = "IBUILabel"; text = "今夜泊まる"; ObjectID = "9Yt-z4-JvU"; */
+"9Yt-z4-JvU.text" = "今夜泊まる";
+
+/* Class = "IBUINavigationItem"; title = "予約情報入力"; ObjectID = "9c7-Gl-1Aa"; */
+"9c7-Gl-1Aa.title" = "予約情報入力";
+
+/* Class = "IBUINavigationItem"; title = "予約キャンセル"; ObjectID = "9oA-UL-WFv"; */
+"9oA-UL-WFv.title" = "予約キャンセル";
+
+/* Class = "IBUIButton"; normalTitle = "決定"; ObjectID = "9wC-Et-fxX"; */
+"9wC-Et-fxX.normalTitle" = "決定";
+
+/* Class = "IBUINavigationItem"; title = "お客様情報登録\n"; ObjectID = "AAU-gl-Aa2"; */
+"AAU-gl-Aa2.title" = "お客様情報登録\n";
+
+/* Class = "IBUIButton"; normalTitle = "メールで送る"; ObjectID = "Ak6-Si-3qT"; */
+"Ak6-Si-3qT.normalTitle" = "メールで共有";
+
+/* Class = "IBUIBarButtonItem"; title = "TOPへ戻る"; ObjectID = "B2n-b3-O1s"; */
+"B2n-b3-O1s.title" = "TOPへ戻る";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "BBG-nz-yzf"; */
+"BBG-nz-yzf.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "設定する"; ObjectID = "BUS-69-2dn"; */
+"BUS-69-2dn.normalTitle" = "設定する";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "BVn-Q9-p7f"; */
+"BVn-Q9-p7f.title" = "戻る";
+
+/* Class = "IBUINavigationItem"; title = "宿泊履歴"; ObjectID = "BY1-Ct-vfP"; */
+"BY1-Ct-vfP.title" = "宿泊履歴";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "BaY-RN-Nhg"; */
+"BaY-RN-Nhg.title" = "戻る";
+
+/* Class = "IBUISegmentedControl"; BeG-l2-X6X.segmentTitles[0] = "はい"; ObjectID = "BeG-l2-X6X"; */
+"BeG-l2-X6X.segmentTitles[0]" = "はい";
+
+/* Class = "IBUISegmentedControl"; BeG-l2-X6X.segmentTitles[1] = "いいえ"; ObjectID = "BeG-l2-X6X"; */
+"BeG-l2-X6X.segmentTitles[1]" = "いいえ";
+
+/* Class = "IBUILabel"; text = "会員番号(半角)"; ObjectID = "BiJ-VV-4pD"; */
+"BiJ-VV-4pD.text" = "会員番号(半角)";
+
+/* Class = "IBUINavigationItem"; title = "ログイン"; ObjectID = "C2q-HE-Ur3"; */
+"C2q-HE-Ur3.title" = "初期設定";
+
+/* Class = "IBUILabel"; text = "現在地周辺ホテルの検出範囲"; ObjectID = "COR-rO-NIA"; */
+"COR-rO-NIA.text" = "現在地周辺ホテルの検出範囲";
+
+/* Class = "IBUIButton"; normalTitle = "この内容で予約を変更する\n"; ObjectID = "CpY-5Q-Rkh"; */
+"CpY-5Q-Rkh.normalTitle" = "この内容で予約を変更する\n";
+
+/* Class = "IBUIButton"; normalTitle = "パスワードを忘れた方はこちら"; ObjectID = "DFQ-48-kla"; */
+"DFQ-48-kla.normalTitle" = "パスワードを忘れた方はこちら";
+
+/* Class = "IBUILabel"; text = "▶"; ObjectID = "DKy-Bh-bOP"; */
+"DKy-Bh-bOP.text" = "▶";
+
+/* Class = "IBUIBarButtonItem"; title = "キャンセル"; ObjectID = "DSy-cu-ian"; */
+"DSy-cu-ian.title" = "戻る";
+
+/* Class = "IBUIButton"; normalTitle = "ツイン(%d)"; ObjectID = "DYL-WL-74K"; */
+"DYL-WL-74K.normalTitle" = "ツイン";
+
+/* Class = "IBUINavigationItem"; title = "予約成立"; ObjectID = "E5a-1M-oMw"; */
+"E5a-1M-oMw.title" = "予約成立";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "EC8-TY-E60"; */
+"EC8-TY-E60.normalTitle" = "Button";
+
+/* Class = "IBUIBarButtonItem"; title = "ホーム"; ObjectID = "EgY-wd-mKX"; */
+"EgY-wd-mKX.title" = "ホーム";
+
+/* Class = "IBUINavigationItem"; title = "ログイン"; ObjectID = "F86-nS-9x9"; */
+"F86-nS-9x9.title" = "初期設定";
+
+/* Class = "IBUIButton"; normalTitle = "お客様情報変更画面へ\n"; ObjectID = "Fph-V0-aRD"; */
+"Fph-V0-aRD.normalTitle" = "お客様情報変更画面へ\n";
+
+/* Class = "IBUIButton"; normalTitle = "ホテル検索"; ObjectID = "Fvs-wk-Eqx"; */
+"Fvs-wk-Eqx.normalTitle" = "ホテル検索";
+
+/* Class = "IBUIButton"; normalTitle = "現在地周辺"; ObjectID = "Fxr-jE-KAB"; */
+"Fxr-jE-KAB.normalTitle" = "現在地周辺";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "GBj-Mw-dBg"; */
+"GBj-Mw-dBg.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "　客室を選ぶ"; ObjectID = "GDh-k2-bVU"; */
+"GDh-k2-bVU.normalTitle" = "　客室を選ぶ";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "GL0-mn-Rg7"; */
+"GL0-mn-Rg7.text" = "Detail";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "GLE-ga-aLZ"; */
+"GLE-ga-aLZ.title" = "戻る";
+
+/* Class = "IBUINavigationItem"; title = "予約確認・変更・キャンセル"; ObjectID = "GMI-lO-HCc"; */
+"GMI-lO-HCc.title" = "予約確認・変更・キャンセル";
+
+/* Class = "IBUILabel"; text = "- 様"; ObjectID = "GXJ-bn-EOh"; */
+"GXJ-bn-EOh.text" = "- 様";
+
+/* Class = "IBUILabel"; text = "宿泊数"; ObjectID = "GY7-G2-dJW"; */
+"GY7-G2-dJW.text" = "宿泊数";
+
+/* Class = "IBUIBarButtonItem"; title = "ログアウト"; ObjectID = "Gjb-Bi-r4a"; */
+"Gjb-Bi-r4a.title" = "ログアウト";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "HNL-VA-QRU"; */
+"HNL-VA-QRU.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "このホテルを予約する"; ObjectID = "HeH-vz-bd2"; */
+"HeH-vz-bd2.normalTitle" = "このホテルを予約する";
+
+/* Class = "IBUILabel"; text = "ポイント"; ObjectID = "IHe-LL-741"; */
+"IHe-LL-741.text" = "ポイント";
+
+/* Class = "IBUIButton"; normalTitle = "お客様情報変更"; ObjectID = "IUM-iE-LuQ"; */
+"IUM-iE-LuQ.normalTitle" = "お客様情報変更";
+
+/* Class = "IBUITextField"; placeholder = "名(例：Taro)"; ObjectID = "IYp-bk-GRJ"; */
+"IYp-bk-GRJ.placeholder" = "名(例：TARO)";
+
+/* Class = "IBUIViewController"; title = "setting"; ObjectID = "JOT-Qy-JAL"; */
+"JOT-Qy-JAL.title" = "setting";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "Jiw-Gg-65x"; */
+"Jiw-Gg-65x.title" = "戻る";
+
+/* Class = "IBUISearchBar"; Jkr-i0-LeG.scopeButtonTitles[0] = "Title"; ObjectID = "Jkr-i0-LeG"; */
+"Jkr-i0-LeG.scopeButtonTitles[0]" = "Title";
+
+/* Class = "IBUISearchBar"; Jkr-i0-LeG.scopeButtonTitles[1] = "Title"; ObjectID = "Jkr-i0-LeG"; */
+"Jkr-i0-LeG.scopeButtonTitles[1]" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "目的地"; ObjectID = "KfS-HK-NzL"; */
+"KfS-HK-NzL.title" = "目的地";
+
+/* Class = "IBUIButton"; normalTitle = "予約する"; ObjectID = "Krr-k8-DYc"; */
+"Krr-k8-DYc.normalTitle" = "予約する";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "LCO-iM-lqn"; */
+"LCO-iM-lqn.text" = "Title";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "LGg-2I-oxS"; */
+"LGg-2I-oxS.title" = "戻る";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Lee-Mt-bXQ"; */
+"Lee-Mt-bXQ.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "2名×1室"; ObjectID = "LqZ-wS-flI"; */
+"LqZ-wS-flI.normalTitle" = "2名×1室";
+
+/* Class = "IBUIButton"; normalTitle = "確認画面へ"; ObjectID = "Lyn-pH-fDH"; */
+"Lyn-pH-fDH.normalTitle" = "確認画面へ";
+
+/* Class = "IBUIButton"; normalTitle = "予約内容の変更"; ObjectID = "M45-F9-kg1"; */
+"M45-F9-kg1.normalTitle" = "予約内容の変更";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "MEt-Je-Mtw"; */
+"MEt-Je-Mtw.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "ログイン"; ObjectID = "MWt-FO-vF5"; */
+"MWt-FO-vF5.normalTitle" = "ログイン";
+
+/* Class = "IBUILabel"; text = "プッシュ通知"; ObjectID = "Mc8-8r-7V1"; */
+"Mc8-8r-7V1.text" = "プッシュ通知";
+
+/* Class = "IBUIViewController"; title = "Map View Controller"; ObjectID = "Md6-mv-5Kw"; */
+"Md6-mv-5Kw.title" = "Map View Controller";
+
+/* Class = "IBUINavigationItem"; title = "予約内容確認"; ObjectID = "Nyt-9j-mqg"; */
+"Nyt-9j-mqg.title" = "予約内容確認";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "O32-Se-2eV"; */
+"O32-Se-2eV.text" = "Label";
+
+/* Class = "IBUILabel"; text = "設定変更"; ObjectID = "Otg-oh-c2q"; */
+"Otg-oh-c2q.text" = "設定変更";
+
+/* Class = "IBUIButton"; normalTitle = "確認画面へ"; ObjectID = "Oth-G9-TPb"; */
+"Oth-G9-TPb.normalTitle" = "確認画面へ";
+
+/* Class = "IBUIBarButtonItem"; title = "ホーム"; ObjectID = "PJp-OJ-Cqk"; */
+"PJp-OJ-Cqk.title" = "ホーム";
+
+/* Class = "IBUIButton"; normalTitle = "広告欄"; ObjectID = "PW0-eJ-TW3"; */
+"PW0-eJ-TW3.normalTitle" = "広告欄";
+
+/* Class = "IBUILabel"; text = "お気に入りホテルからのお知らせ"; ObjectID = "PZK-d7-1m9"; */
+"PZK-d7-1m9.text" = "お気に入りホテルからのお知らせ";
+
+/* Class = "IBUIBarButtonItem"; title = "リスト"; ObjectID = "PgT-cQ-Fgl"; */
+"PgT-cQ-Fgl.title" = "リスト";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "Q1I-63-IUV"; */
+"Q1I-63-IUV.title" = "戻る";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "QDe-Qf-7sW"; */
+"QDe-Qf-7sW.title" = "戻る";
+
+/* Class = "IBUIButton"; normalTitle = "お問い合わせ"; ObjectID = "QVL-F9-LAj"; */
+"QVL-F9-LAj.normalTitle" = "お問い合わせ";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "RQ1-mK-G1U"; */
+"RQ1-mK-G1U.title" = "戻る";
+
+/* Class = "IBUINavigationItem"; title = "お客様情報登録"; ObjectID = "RT8-qa-0SB"; */
+"RT8-qa-0SB.title" = "お客様情報登録";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "SAS-Ed-r3V"; */
+"SAS-Ed-r3V.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "TOP"; ObjectID = "SKN-xW-zMa"; */
+"SKN-xW-zMa.normalTitle" = "TOP";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "T5d-Mz-7rq"; */
+"T5d-Mz-7rq.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "氏名・生年月日\nでログイン"; ObjectID = "T72-D0-N8r"; */
+"T72-D0-N8r.normalTitle" = "氏名・生年月日\nでログイン";
+
+/* Class = "IBUIButton"; normalTitle = "予約キャンセル確認"; ObjectID = "TFI-ej-iSk"; */
+"TFI-ej-iSk.normalTitle" = "予約キャンセル確認";
+
+/* Class = "IBUIButton"; normalTitle = "LINEで送る"; ObjectID = "TPD-0F-lEW"; */
+"TPD-0F-lEW.normalTitle" = "LINEで共有";
+
+/* Class = "IBUINavigationItem"; title = "条件入力"; ObjectID = "Tu9-WL-K5j"; */
+"Tu9-WL-K5j.title" = "条件入力";
+
+/* Class = "IBUIButton"; normalTitle = "　条件を指定してホテル検索"; ObjectID = "UHG-cc-5TD"; */
+"UHG-cc-5TD.normalTitle" = "　条件を指定してホテル検索";
+
+/* Class = "IBUIButton"; normalTitle = "予約を続ける"; ObjectID = "UWb-tc-A1m"; */
+"UWb-tc-A1m.normalTitle" = "予約を続ける";
+
+/* Class = "IBUIButton"; normalTitle = "規約に同意して予約する"; ObjectID = "UaW-3d-QAG"; */
+"UaW-3d-QAG.normalTitle" = "規約に同意して予約する";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "V4W-SB-lV8"; */
+"V4W-SB-lV8.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "設定変更"; ObjectID = "V9t-AM-0ee"; */
+"V9t-AM-0ee.normalTitle" = "設定変更";
+
+/* Class = "IBUITextField"; text = "2014/12/31"; ObjectID = "VJa-X6-H2R"; */
+"VJa-X6-H2R.text" = "2014/12/31";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "VVZ-R5-T4j"; */
+"VVZ-R5-T4j.text" = "Title";
+
+/* Class = "IBUILabel"; text = "チェックイン"; ObjectID = "Vpd-V7-1Wi"; */
+"Vpd-V7-1Wi.text" = "チェックイン";
+
+/* Class = "IBUILabel"; text = "キャンセルする場合は、ご予約内容、及び「キャンセルについて」をご確認の上、「この予約をキャンセルする」ボタンを押してください。"; ObjectID = "Vvv-fw-pYl"; */
+"Vvv-fw-pYl.text" = "キャンセルする場合は、ご予約内容、及び「キャンセルポリシー」をご確認の上、「この予約をキャンセルする」ボタンを押してください。";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "VxW-Qn-zID"; */
+"VxW-Qn-zID.text" = "Title";
+
+/* Class = "IBUIViewController"; title = "SlideMenu"; ObjectID = "WFu-dW-Ctp"; */
+"WFu-dW-Ctp.title" = "SlideMenu";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "WJ4-6A-UrJ"; */
+"WJ4-6A-UrJ.title" = "戻る";
+
+/* Class = "IBUILabel"; text = "お問い合わせ"; ObjectID = "WJY-Dp-DUP"; */
+"WJY-Dp-DUP.text" = "お問い合わせ";
+
+/* Class = "IBUILabel"; text = "現在地から%f km"; ObjectID = "WRn-Fq-rqN"; */
+"WRn-Fq-rqN.text" = "現在地から%1.1f km";
+
+/* Class = "IBUIButton"; normalTitle = "閲覧履歴"; ObjectID = "Wgv-MY-t7P"; */
+"Wgv-MY-t7P.normalTitle" = "閲覧履歴";
+
+/* Class = "IBUIButton"; normalTitle = "絞り込み"; ObjectID = "XS5-ek-zy9"; */
+"XS5-ek-zy9.normalTitle" = "絞り込み";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "XUX-Qi-ysy"; */
+"XUX-Qi-ysy.text" = "Title";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "XvL-MU-NAt"; */
+"XvL-MU-NAt.title" = "戻る";
+
+/* Class = "IBUIButton"; normalTitle = "新規登録はこちら"; ObjectID = "YXv-Yy-4zw"; */
+"YXv-Yy-4zw.normalTitle" = "新規登録はこちら";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "Yaa-AW-f8F"; */
+"Yaa-AW-f8F.title" = "戻る";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "Z9X-8t-8d5"; */
+"Z9X-8t-8d5.title" = "戻る";
+
+/* Class = "IBUINavigationItem"; title = "Toyoko-Inn"; ObjectID = "ZNu-c3-Elk"; */
+"ZNu-c3-Elk.title" = "Toyoko-Inn";
+
+/* Class = "IBUIButton"; normalTitle = "近い順"; ObjectID = "ZTX-ow-eQ5"; */
+"ZTX-ow-eQ5.normalTitle" = "近い順";
+
+/* Class = "IBUINavigationItem"; title = "東横INNからのお知らせ"; ObjectID = "a5W-ku-5Fs"; */
+"a5W-ku-5Fs.title" = "東横INNからのお知らせ";
+
+/* Class = "IBUINavigationItem"; title = "距離指定"; ObjectID = "aBU-0N-R9q"; */
+"aBU-0N-R9q.title" = "距離指定";
+
+/* Class = "IBUISearchBar"; placeholder = "目的地を入力"; ObjectID = "aC4-Oh-fBe"; */
+"aC4-Oh-fBe.placeholder" = "目的地を入力";
+
+/* Class = "IBUIButton"; normalTitle = "予約確認・キャンセル"; ObjectID = "aLg-Da-I8Y"; */
+"aLg-Da-I8Y.normalTitle" = "予約確認・変更・キャンセル";
+
+/* Class = "IBUILabel"; text = "東横INNからのお知らせ"; ObjectID = "aYI-AS-oIe"; */
+"aYI-AS-oIe.text" = "東横INNからのお知らせ";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "b6N-ds-orb"; */
+"b6N-ds-orb.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "現在地から%f km"; ObjectID = "bIu-IE-33a"; */
+"bIu-IE-33a.normalTitle" = "現在地から%1.1f km";
+
+/* Class = "IBUISearchBar"; placeholder = "キーワードを入力"; ObjectID = "bog-mT-SNH"; */
+"bog-mT-SNH.placeholder" = "キーワードを入力";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "bpK-ah-U0H"; */
+"bpK-ah-U0H.title" = "戻る";
+
+/* Class = "IBUINavigationItem"; title = "アカウント情報"; ObjectID = "by7-2p-dWn"; */
+"by7-2p-dWn.title" = "アカウント情報";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "c5m-Eg-Gg5"; */
+"c5m-Eg-Gg5.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "予約変更"; ObjectID = "cfk-Zz-yO4"; */
+"cfk-Zz-yO4.title" = "予約変更";
+
+/* Class = "IBUIBarButtonItem"; title = "キャンセル"; ObjectID = "crF-Cc-N74"; */
+"crF-Cc-N74.title" = "キャンセル";
+
+/* Class = "IBUILabel"; text = "日付/条件から探す"; ObjectID = "dZX-QD-DQ4"; */
+"dZX-QD-DQ4.text" = "日付/条件から探す";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "ddg-u9-AuM"; */
+"ddg-u9-AuM.title" = "Item";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "dey-B7-30c"; */
+"dey-B7-30c.text" = "Title";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "du5-ST-bNq"; */
+"du5-ST-bNq.title" = "戻る";
+
+/* Class = "IBUILabel"; text = "1km"; ObjectID = "eAx-iD-j3z"; */
+"eAx-iD-j3z.text" = "1km";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "eDb-e7-fvV"; */
+"eDb-e7-fvV.text" = "Label";
+
+/* Class = "IBUILabel"; text = "予約キャンセル確認"; ObjectID = "ema-ul-6Zm"; */
+"ema-ul-6Zm.text" = "予約キャンセル確認";
+
+/* Class = "IBUIButton"; normalTitle = "予約確認・変更・キャンセルへ\n"; ObjectID = "f3f-tq-sAb"; */
+"f3f-tq-sAb.normalTitle" = "予約確認・変更・キャンセルへ\n";
+
+/* Class = "IBUITextField"; placeholder = "姓(例：Yamada)"; ObjectID = "fKX-39-xCs"; */
+"fKX-39-xCs.placeholder" = "姓(例：YAMADA)";
+
+/* Class = "IBUILabel"; text = "姓(半角ｱﾙﾌｧﾍﾞｯﾄ)"; ObjectID = "fTt-1U-HJ6"; */
+"fTt-1U-HJ6.text" = "姓(半角アルファベット)";
+
+/* Class = "IBUINavigationItem"; title = "予約変更"; ObjectID = "fdR-gn-0nV"; */
+"fdR-gn-0nV.title" = "予約変更";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "flz-Co-dsS"; */
+"flz-Co-dsS.text" = "Title";
+
+/* Class = "IBUIBarButtonItem"; title = "ホーム"; ObjectID = "fu3-wl-Y0h"; */
+"fu3-wl-Y0h.title" = "ホーム";
+
+/* Class = "IBUIBarButtonItem"; title = "キャンセル"; ObjectID = "g0F-Iq-IAE"; */
+"g0F-Iq-IAE.title" = "キャンセル";
+
+/* Class = "IBUINavigationItem"; title = "Title"; ObjectID = "gRr-dU-zTt"; */
+"gRr-dU-zTt.title" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "シングル(%d)"; ObjectID = "gVc-br-EoH"; */
+"gVc-br-EoH.normalTitle" = "シングル";
+
+/* Class = "IBUILabel"; text = "ご利用案内"; ObjectID = "gVd-Oa-ia8"; */
+"gVd-Oa-ia8.text" = "ご利用案内";
+
+/* Class = "IBUILabel"; text = "-"; ObjectID = "h2A-ZD-LNW"; */
+"h2A-ZD-LNW.text" = "-";
+
+/* Class = "IBUIButton"; normalTitle = "リセット"; ObjectID = "h35-pK-1bB"; */
+"h35-pK-1bB.normalTitle" = "リセット";
+
+/* Class = "IBUINavigationItem"; title = "現在地周辺"; ObjectID = "h6G-PC-6Fq"; */
+"h6G-PC-6Fq.title" = "現在地周辺";
+
+/* Class = "IBUINavigationItem"; title = "Title"; ObjectID = "h6p-hC-0Bv"; */
+"h6p-hC-0Bv.title" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "お客様情報変更\n"; ObjectID = "hBi-i3-Hjx"; */
+"hBi-i3-Hjx.title" = "お客様情報変更\n";
+
+/* Class = "IBUIButton"; normalTitle = "ホテル一覧を見る"; ObjectID = "i6y-wc-vMc"; */
+"i6y-wc-vMc.normalTitle" = "ホテル一覧を見る";
+
+/* Class = "IBUILabel"; text = "変更内容の確認"; ObjectID = "il1-Xh-Kdr"; */
+"il1-Xh-Kdr.text" = "変更内容の確認";
+
+/* Class = "IBUILabel"; text = "過去にログインしたことがある方で、新たにカード会員になられた方は会員情報を追加する手続きが必要です。下記ボタンより手続きをしてください。\n"; ObjectID = "ipG-Tb-QCU"; */
+"ipG-Tb-QCU.text" = "過去にログインしたことがある方で、新たにカード会員になられた方は会員情報を追加する手続きが必要です。下記ボタンより手続きをしてください。\n";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "j55-GW-NT0"; */
+"j55-GW-NT0.title" = "戻る";
+
+/* Class = "IBUIButton"; normalTitle = "1名×2室"; ObjectID = "jBv-h4-GgC"; */
+"jBv-h4-GgC.normalTitle" = "1名×2室";
+
+/* Class = "IBUIButton"; normalTitle = "予約の取り消し"; ObjectID = "jH6-S9-TIO"; */
+"jH6-S9-TIO.normalTitle" = "予約の取り消し";
+
+/* Class = "IBUILabel"; text = "最寄りホテルからのお知らせ"; ObjectID = "jdj-Nx-g4R"; */
+"jdj-Nx-g4R.text" = "最寄りホテルからのお知らせ";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "jfB-u3-Ufb"; */
+"jfB-u3-Ufb.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "I ▼"; ObjectID = "jtt-qX-fPZ"; */
+"jtt-qX-fPZ.normalTitle" = "I ▼";
+
+/* Class = "IBUILabel"; text = "%d泊"; ObjectID = "k9q-jr-mr7"; */
+"k9q-jr-mr7.text" = "%d泊";
+
+/* Class = "IBUIBarButtonItem"; title = "ホーム"; ObjectID = "kMa-fF-Asw"; */
+"kMa-fF-Asw.title" = "ホーム";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "kql-xR-rc2"; */
+"kql-xR-rc2.text" = "1";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "lBo-rs-Tcq"; */
+"lBo-rs-Tcq.title" = "ホーム";
+
+/* Class = "IBUIViewController"; title = "login choices"; ObjectID = "lOg-IW-kfb"; */
+"lOg-IW-kfb.title" = "login choices";
+
+/* Class = "IBUIViewController"; title = "Other Option Menu"; ObjectID = "lZY-vV-YZh"; */
+"lZY-vV-YZh.title" = "Other Option Menu";
+
+/* Class = "IBUIBarButtonItem"; title = "ホーム"; ObjectID = "lkl-PL-RUj"; */
+"lkl-PL-RUj.title" = "ホーム";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "lwS-Me-ifb"; */
+"lwS-Me-ifb.title" = "戻る";
+
+/* Class = "IBUINavigationItem"; title = "お客様情報変更"; ObjectID = "m6J-sy-Oyu"; */
+"m6J-sy-Oyu.title" = "お客様情報変更";
+
+/* Class = "IBUIButton"; normalTitle = "確認画面へ"; ObjectID = "m6e-T6-Qc5"; */
+"m6e-T6-Qc5.normalTitle" = "確認画面へ";
+
+/* Class = "IBUIButton"; normalTitle = "登録する"; ObjectID = "m9U-Wp-0nB"; */
+"m9U-Wp-0nB.normalTitle" = "登録する";
+
+/* Class = "IBUINavigationItem"; title = "宿泊履歴"; ObjectID = "mIJ-8c-Xuv"; */
+"mIJ-8c-Xuv.title" = "宿泊履歴";
+
+/* Class = "IBUILabel"; text = "条件入力"; ObjectID = "mhJ-Mi-5IX"; */
+"mhJ-Mi-5IX.text" = "条件入力";
+
+/* Class = "IBUINavigationItem"; title = "設定"; ObjectID = "n9Z-o5-XV7"; */
+"n9Z-o5-XV7.title" = "設定";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "oB2-6W-eLv"; */
+"oB2-6W-eLv.text" = "Title";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "oCE-G9-ll0"; */
+"oCE-G9-ll0.title" = "戻る";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "oJx-fP-00G"; */
+"oJx-fP-00G.title" = "ホーム";
+
+/* Class = "IBUINavigationItem"; title = "ログイン"; ObjectID = "oQN-xk-17F"; */
+"oQN-xk-17F.title" = "ログイン";
+
+/* Class = "IBUIButton"; normalTitle = "入力内容を変更する"; ObjectID = "oeN-u1-SJz"; */
+"oeN-u1-SJz.normalTitle" = "入力内容を変更する";
+
+/* Class = "IBUINavigationItem"; title = "予約確認・変更・キャンセル\n"; ObjectID = "oit-Jd-Cj0"; */
+"oit-Jd-Cj0.title" = "予約確認・変更・キャンセル\n";
+
+/* Class = "IBUIButton"; normalTitle = "登録する"; ObjectID = "oxg-fM-dQI"; */
+"oxg-fM-dQI.normalTitle" = "登録する";
+
+/* Class = "IBUIButton"; normalTitle = "一般のお客様"; ObjectID = "pDw-Ls-KcD"; */
+"pDw-Ls-KcD.normalTitle" = "一般のお客様";
+
+/* Class = "IBUIBarButtonItem"; title = "ホーム"; ObjectID = "q7Z-2p-heh"; */
+"q7Z-2p-heh.title" = "ホーム";
+
+/* Class = "IBUINavigationItem"; title = "お客様情報変更"; ObjectID = "q8N-oD-oRX"; */
+"q8N-oD-oRX.title" = "お客様情報変更";
+
+/* Class = "IBUILabel"; text = "地図から探す"; ObjectID = "qDR-bi-0ag"; */
+"qDR-bi-0ag.text" = "地図から探す";
+
+/* Class = "IBUIButton"; normalTitle = "お気に入りのホテル"; ObjectID = "qK8-yD-0Z5"; */
+"qK8-yD-0Z5.normalTitle" = "お気に入りのホテル";
+
+/* Class = "IBUIViewController"; title = "Account Setting View"; ObjectID = "qbM-rp-h53"; */
+"qbM-rp-h53.title" = "Account Setting View";
+
+/* Class = "IBUILabel"; text = "東横INNｸﾗﾌﾞｶｰﾄﾞをお持ちの会員"; ObjectID = "qjQ-Zb-vIu"; */
+"qjQ-Zb-vIu.text" = "東横INNｸﾗﾌﾞｶｰﾄﾞをお持ちの会員様";
+
+/* Class = "IBUINavigationItem"; title = "お客様情報登録"; ObjectID = "rI8-L4-4Cm"; */
+"rI8-L4-4Cm.title" = "初期設定";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "rSD-qi-Ozq"; */
+"rSD-qi-Ozq.title" = "戻る";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "rbL-Jp-Yfo"; */
+"rbL-Jp-Yfo.title" = "戻る";
+
+/* Class = "IBUIViewController"; title = "MainView"; ObjectID = "roL-61-VDp"; */
+"roL-61-VDp.title" = "MainView";
+
+/* Class = "IBUINavigationItem"; title = "予約キャンセル"; ObjectID = "rzE-H0-4nk"; */
+"rzE-H0-4nk.title" = "予約キャンセル";
+
+/* Class = "IBUILabel"; text = "I"; ObjectID = "s09-d3-qxI"; */
+"s09-d3-qxI.text" = "I";
+
+/* Class = "IBUILabel"; text = "会員様ポイント確認"; ObjectID = "sCX-A7-WJb"; */
+"sCX-A7-WJb.text" = "会員様ポイント確認";
+
+/* Class = "IBUINavigationItem"; title = "お客様情報登録"; ObjectID = "sOD-47-iB0"; */
+"sOD-47-iB0.title" = "お客様情報登録";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "sWx-zW-2y6"; */
+"sWx-zW-2y6.title" = "戻る";
+
+/* Class = "IBUISegmentedControl"; sqJ-Sq-aXI.segmentTitles[0] = "ホテル名"; ObjectID = "sqJ-Sq-aXI"; */
+"sqJ-Sq-aXI.segmentTitles[0]" = "ホテル名";
+
+/* Class = "IBUISegmentedControl"; sqJ-Sq-aXI.segmentTitles[1] = "駅・空港名"; ObjectID = "sqJ-Sq-aXI"; */
+"sqJ-Sq-aXI.segmentTitles[1]" = "駅・空港名";
+
+/* Class = "IBUISegmentedControl"; sqJ-Sq-aXI.segmentTitles[2] = "観光地"; ObjectID = "sqJ-Sq-aXI"; */
+"sqJ-Sq-aXI.segmentTitles[2]" = "観光地";
+
+/* Class = "IBUILabel"; text = "内訳"; ObjectID = "srt-bt-mtq"; */
+"srt-bt-mtq.text" = " 内訳";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "tLZ-Xi-QVL"; */
+"tLZ-Xi-QVL.text" = "Label";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "teN-U1-nyp"; */
+"teN-U1-nyp.title" = "戻る";
+
+/* Class = "IBUIButton"; normalTitle = "次へ"; ObjectID = "tiV-FL-Ab7"; */
+"tiV-FL-Ab7.normalTitle" = "次へ";
+
+/* Class = "IBUIBarButtonItem"; title = "ホーム"; ObjectID = "ufH-fr-X2f"; */
+"ufH-fr-X2f.title" = "戻る";
+
+/* Class = "IBUINavigationItem"; title = "客室/プランの詳細"; ObjectID = "ugq-Jo-EkD"; */
+"ugq-Jo-EkD.title" = "客室/プランの詳細";
+
+/* Class = "IBUIButton"; normalTitle = "お客様情報変更画面へ\n"; ObjectID = "uk7-Z9-Zxl"; */
+"uk7-Z9-Zxl.normalTitle" = "お客様情報変更画面へ\n";
+
+/* Class = "IBUIBarButtonItem"; title = "メニュー"; ObjectID = "vC1-t5-jnM"; */
+"vC1-t5-jnM.title" = "メニュー";
+
+/* Class = "IBUIButton"; normalTitle = "絞り込み"; ObjectID = "vMu-2g-YMb"; */
+"vMu-2g-YMb.normalTitle" = "絞り込み";
+
+/* Class = "IBUINavigationItem"; title = "ログイン"; ObjectID = "vNH-uS-XV2"; */
+"vNH-uS-XV2.title" = "ログイン";
+
+/* Class = "IBUILabel"; text = "変更内容の入力"; ObjectID = "vRe-BD-txt"; */
+"vRe-BD-txt.text" = "変更内容の入力";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "vYy-pe-QfE"; */
+"vYy-pe-QfE.text" = "Subtitle";
+
+/* Class = "IBUIBarButtonItem"; title = "TOP"; ObjectID = "vcb-sz-k4G"; */
+"vcb-sz-k4G.title" = "閉じる";
+
+/* Class = "IBUINavigationItem"; title = "宿泊日"; ObjectID = "voM-RH-NzQ"; */
+"voM-RH-NzQ.title" = "宿泊日選択";
+
+/* Class = "IBUIButton"; normalTitle = "宿泊履歴"; ObjectID = "w6Z-K2-GO3"; */
+"w6Z-K2-GO3.normalTitle" = "宿泊履歴";
+
+/* Class = "IBUINavigationItem"; title = "お知らせ"; ObjectID = "w9p-6c-eqp"; */
+"w9p-6c-eqp.title" = "お知らせ";
+
+/* Class = "IBUIButton"; normalTitle = "お気に入りのホテル"; ObjectID = "wCw-du-7kp"; */
+"wCw-du-7kp.normalTitle" = "お気に入りのホテル";
+
+/* Class = "IBUILabel"; text = "ー"; ObjectID = "wT3-Qz-wGa"; */
+"wT3-Qz-wGa.text" = "ー";
+
+/* Class = "IBUINavigationItem"; title = "閲覧履歴"; ObjectID = "wiX-rJ-qHq"; */
+"wiX-rJ-qHq.title" = "閲覧履歴";
+
+/* Class = "IBUIButton"; normalTitle = "確認画面へ"; ObjectID = "x2y-Bl-H0V"; */
+"x2y-Bl-H0V.normalTitle" = "確認画面へ";
+
+/* Class = "IBUIButton"; normalTitle = "ダブル(%d)"; ObjectID = "xID-hL-13q"; */
+"xID-hL-13q.normalTitle" = "ダブル";
+
+/* Class = "IBUIBarButtonItem"; title = "ホーム"; ObjectID = "xKO-BH-L5e"; */
+"xKO-BH-L5e.title" = "ホーム";
+
+/* Class = "IBUIButton"; normalTitle = "この予約をキャンセルする"; ObjectID = "xME-R4-VtQ"; */
+"xME-R4-VtQ.normalTitle" = "この予約をキャンセルする";
+
+/* Class = "IBUINavigationItem"; title = "お客様情報登録"; ObjectID = "xsE-hi-69V"; */
+"xsE-hi-69V.title" = "お客様情報登録";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "yJh-mR-kLI"; */
+"yJh-mR-kLI.text" = "Label";
+
+/* Class = "IBUILabel"; text = "　宿泊日選択"; ObjectID = "yMy-lX-dao"; */
+"yMy-lX-dao.text" = "　宿泊日選択";
+
+/* Class = "IBUINavigationItem"; title = "部屋タイプ指定"; ObjectID = "yib-RS-FrZ"; */
+"yib-RS-FrZ.title" = "部屋タイプ指定";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "zR1-Hq-RlP"; */
+"zR1-Hq-RlP.title" = "戻る";

@@ -1,0 +1,6 @@
+{
+	"gender":["M", "F"],
+	"jpn_gender": ["男性", "女性"],
+	"cht_gender": ["男性", "女性"],
+	"eng_gender": ["Male", "Female"]
+}

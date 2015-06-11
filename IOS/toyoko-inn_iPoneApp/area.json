@@ -1,0 +1,60 @@
+﻿{
+	"place":{
+			"place_name":"現在地周辺",
+            "num_hotels": 3
+		},
+	"area":[
+		{
+			"area_name":"北海道",
+            "num_hotels": 2,
+			"prefs":
+				[ 
+				]
+		},
+        {
+			"area_name":"東北",
+            "num_hotels": 2,
+			"prefs":
+                [
+                {"pref_name": "青森",
+                 "num_hotels": 2
+                },
+                {"pref_name": "岩手",
+                 "num_hotels": 2
+                },
+                {"pref_name": "秋田",
+                 "num_hotels": 2
+                }
+                ]
+        },
+		{
+			"area_name":"関東",
+            "num_hotels": 2,
+			"prefs":
+				[
+                 {"pref_name": "群馬",
+                 "num_hotels": 2
+                 },
+                 {"pref_name": "栃木",
+                 "num_hotels": 2
+                 },
+                 {"pref_name": "茨城",
+                 "num_hotels": 2
+                 },
+                 {"pref_name": "埼玉",
+                 "num_hotels": 2
+                 },
+                 {"pref_name": "千葉",
+                 "num_hotels": 2
+                 },
+                 {"pref_name": "東京",
+                  "num_hotels": 2
+                 },
+                 {"pref_name": "神奈川",
+                 "num_hotels": 2
+                 }
+				]
+				
+		}
+		]
+}
